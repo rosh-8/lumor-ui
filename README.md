@@ -5,7 +5,7 @@ lumor-ui is a React-first component library designed for signal-based, calm inte
 
 # Why “Lumor”?
 
-Inspired by lumen (light and yes, a cheeky nod to my own name :D ) and rumor (signal propagation), lumor-ui is a signal-driven interface layer for calm, intelligent frontends.
+Inspired by lumen (light and yes, a cheeky nod to my own name :D ) and resonance (signal propagation), lumor-ui is a signal-driven interface layer for calm, intelligent frontends.
 
 
 # Stack
