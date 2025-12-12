@@ -1,11 +1,11 @@
-# LumorUI
+# Lumen UI
 A framework-agnostic clarity & accessibility layer for interoperable UI components.
 
-lumor-ui is a React-first component library designed for signal-based, calm interfaces that prioritize accessibility, behavioral clarity, and interoperability over aesthetics.
+lumen-ui is a React-first component library designed for signal-based, calm interfaces that prioritize accessibility, behavioral clarity, and interoperability over aesthetics.
 
-# Why “Lumor”?
+# Why “Lumen”?
 
-Inspired by lumen (light and yes, a cheeky nod to my own name :D ) and resonance (signal propagation), lumor-ui is a signal-driven interface layer for calm, intelligent frontends.
+Inspired by lumen (light and yes, a cheeky nod to my own name :D ) and resonance (signal propagation), lumen-ui is a signal-driven interface layer for calm, intelligent frontends.
 
 
 # Stack
@@ -55,7 +55,7 @@ CI workflows (typecheck, lint, test)
 
 # Vision
 
-lumor-ui is not a full design system. It’s an interface bridge that helps engineers:
+lumen-ui is an interface bridge that helps engineers:
 
 Ensure every UI behavior has a signal (keyboard, focus, screen reader)
 
